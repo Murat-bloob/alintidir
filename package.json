@@ -1,9 +1,9 @@
 {
-  "name": "stark",
+  "name": "mongolan",
   "version": "1.0.0",
   "description": "",
-  "main": "stark.js",
-  "author": "Stark",
+  "main": "mongolan.js",
+  "author": "power",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.5.1",
